@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5BAB5FB1-7334-4E39-AE78-D743421E7BDE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86AB35B9-0555-4379-B239-F1444DD3F00E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AllTrails/LocationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "locationManagerDidChangeAuthorization(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "86AB35B9-0555-4379-B239-F1444DD3F00E - e49877cc9e87b93c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AllTrails.LocationManager.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails/AllTrails/LocationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "86AB35B9-0555-4379-B239-F1444DD3F00E - e49877cc9e87b95d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AllTrails.LocationManager.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails/AllTrails/LocationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A26A5137-DB94-4D22-90EE-A5DEB8447BD8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AllTrails/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetchNearbyRestaurants(coordinates:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A26A5137-DB94-4D22-90EE-A5DEB8447BD8 - 9bd58e55febda26f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for AllTrails.NetworkManager.fetchNearbyRestaurants() async throws -&gt; Swift.Array&lt;AllTrails.Place&gt;"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails/AllTrails/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "A26A5137-DB94-4D22-90EE-A5DEB8447BD8 - 5d3e22755c43b55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for AllTrails.NetworkManager.fetchNearbyRestaurants(coordinates: __C.CLLocationCoordinate2D) async throws -&gt; Swift.Array&lt;AllTrails.Place&gt;"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails/AllTrails/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "A26A5137-DB94-4D22-90EE-A5DEB8447BD8 - ec148cc1a960ab1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for AllTrails.NetworkManager.fetchNearbyRestaurants(coordinates: __C.CLLocationCoordinate2D) async throws -&gt; Swift.Array&lt;AllTrails.Place&gt;"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails%20copy/AllTrails/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "A26A5137-DB94-4D22-90EE-A5DEB8447BD8 - d106c95f536b63d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for AllTrails.NetworkManager.fetchNearbyRestaurants(coordinates: __C.CLLocationCoordinate2D) async throws -&gt; Swift.Array&lt;AllTrails.Place&gt;"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails_works/AllTrails/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8252098A-2326-44FE-8F2F-F1E0E0F05037"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AllTrails/Model/ViewModel/RestaurantListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchRestaurants()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8252098A-2326-44FE-8F2F-F1E0E0F05037 - 418890720d02868e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in AllTrails.RestaurantListViewModel.fetchRestaurants() -&gt; ()"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails/AllTrails/Model/ViewModel/RestaurantListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "8252098A-2326-44FE-8F2F-F1E0E0F05037 - eca8328ed935e68f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in AllTrails.RestaurantListViewModel.fetchRestaurants() -&gt; ()"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails/AllTrails/Model/ViewModel/RestaurantListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "8252098A-2326-44FE-8F2F-F1E0E0F05037 - eca8328ed935e6ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in AllTrails.RestaurantListViewModel.fetchRestaurants() -&gt; ()"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails/AllTrails/Model/ViewModel/RestaurantListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "532">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "877038CF-E5FB-4D98-8598-9133211CEC30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AllTrails/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchNearbyRestaurants(coordinates:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "877038CF-E5FB-4D98-8598-9133211CEC30 - 445d815f1d6be740"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for AllTrails.NetworkManager.fetchNearbyRestaurants() async throws -&gt; Swift.Array&lt;AllTrails.Place&gt;"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails/AllTrails/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "877038CF-E5FB-4D98-8598-9133211CEC30 - 445d815f1d6be740"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for AllTrails.NetworkManager.fetchNearbyRestaurants() async throws -&gt; Swift.Array&lt;AllTrails.Place&gt;"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails/AllTrails/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "877038CF-E5FB-4D98-8598-9133211CEC30 - dd9c9abf026d3ffe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for AllTrails.NetworkManager.fetchNearbyRestaurants(coordinates: __C.CLLocationCoordinate2D) async throws -&gt; Swift.Array&lt;AllTrails.Place&gt;"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails/AllTrails/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "877038CF-E5FB-4D98-8598-9133211CEC30 - 345bf459fec9afa6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for AllTrails.NetworkManager.fetchNearbyRestaurants(coordinates: __C.CLLocationCoordinate2D) async throws -&gt; Swift.Array&lt;AllTrails.Place&gt;"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails%20copy/AllTrails/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "877038CF-E5FB-4D98-8598-9133211CEC30 - 949b1c704c26479"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for AllTrails.NetworkManager.fetchNearbyRestaurants(coordinates: __C.CLLocationCoordinate2D) async throws -&gt; Swift.Array&lt;AllTrails.Place&gt;"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails_works/AllTrails/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30962A2B-01D8-4DE1-BE3A-C3E0005DCDD5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AllTrails/Manager/LocationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "requestLocation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CBB14D1-8D08-43CC-852B-0B675703FC97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AllTrails/Manager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchNearbyRestaurants(coordinates:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6CBB14D1-8D08-43CC-852B-0B675703FC97 - 223326a13c75d7e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for AllTrails.NetworkManager.fetchNearbyRestaurants(coordinates: __C.CLLocationCoordinate2D) async throws -&gt; Swift.Array&lt;AllTrails.Place&gt;"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails_works/AllTrails/Manager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+               <Location
+                  uuid = "6CBB14D1-8D08-43CC-852B-0B675703FC97 - 70bd5efd2035f49d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for AllTrails.NetworkManager.fetchNearbyRestaurants(coordinates: __C.CLLocationCoordinate2D) async throws -&gt; Swift.Array&lt;AllTrails.Place&gt;"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails_works/AllTrails/Manager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "6CBB14D1-8D08-43CC-852B-0B675703FC97 - fa7c5e396bdcd3e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for AllTrails.NetworkManager.fetchNearbyRestaurants(coordinates: __C.CLLocationCoordinate2D) async throws -&gt; Swift.Array&lt;AllTrails.Place&gt;"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails_works/AllTrails/Manager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "6CBB14D1-8D08-43CC-852B-0B675703FC97 - 16670a4d82e85de6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for AllTrails.NetworkManager.fetchNearbyRestaurants(coordinates: __C.CLLocationCoordinate2D) async throws -&gt; Swift.Array&lt;AllTrails.Place&gt;"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails_works/AllTrails/Manager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C64F11D-FC01-40AA-87E3-760D80CDEE6E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AllTrails/Manager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fetchNearbyRestaurants(coordinates:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7F3BFB4-E4DE-477F-AF12-4E668FF6B839"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AllTrails/Manager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchNearbyRestaurants(coordinates:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42BC66B6-713D-419B-B164-65DB98A2E122"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AllTrails/Views/RestaurantListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "42BC66B6-713D-419B-B164-65DB98A2E122 - 12a8e728f30d76bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt;, SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;)&gt;, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;&gt;&gt;)&gt; in AllTrails.RestaurantListView.body.getter : some"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails_works/AllTrails/Views/RestaurantListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1836">
+               </Location>
+               <Location
+                  uuid = "42BC66B6-713D-419B-B164-65DB98A2E122 - 4e533ddfcd66cae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (AllTrails.Place) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.Text&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt;)&gt;&gt;, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt;, SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;)&gt;, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;&gt;&gt;)&gt; in AllTrails.RestaurantListView.body.getter : some"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails_works/AllTrails/Views/RestaurantListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "42BC66B6-713D-419B-B164-65DB98A2E122 - 16e39b5565e1a3f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(alignment: SwiftUI.Alignment, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt;, SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;)&gt;, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;&gt;&gt; in AllTrails.RestaurantListView.body.getter : some"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails_works/AllTrails/Views/RestaurantListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "956">
+               </Location>
+               <Location
+                  uuid = "42BC66B6-713D-419B-B164-65DB98A2E122 - c5da957f69f2b27e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AllTrails.Place) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.Text&gt;, SwiftUI.HStack&lt;SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(AllTrails.Stars, SwiftUI.Text)&gt;, SwiftUI.Text&gt;&gt;, SwiftUI.Text, SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(alignment: SwiftUI.Alignment, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt;, SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;)&gt;, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;&gt;&gt; in AllTrails.RestaurantListView.body.getter : some"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails_works/AllTrails/Views/RestaurantListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "42BC66B6-713D-419B-B164-65DB98A2E122 - d2da08b460841138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(alignment: SwiftUI.Alignment, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt;, SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;)&gt;, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;&gt;&gt;)&gt; in AllTrails.RestaurantListView.body.getter : some"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails_works/AllTrails/Views/RestaurantListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1904">
+               </Location>
+               <Location
+                  uuid = "42BC66B6-713D-419B-B164-65DB98A2E122 - 735d19ff0aa0eaa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AllTrails.Place) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.Text&gt;, SwiftUI.HStack&lt;SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(AllTrails.Stars, SwiftUI.Text)&gt;, SwiftUI.Text&gt;&gt;, SwiftUI.Text, SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(alignment: SwiftUI.Alignment, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt;, SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;)&gt;, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;&gt;&gt;)&gt; in AllTrails.RestaurantListView.body.getter : some"
+                  moduleName = "AllTrails"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rick/Desktop/interview_stuff/AT_Restaurant_App/AllTrails_works/AllTrails/Views/RestaurantListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE4F47AA-753D-4B5D-B50D-557C12B0E5DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AllTrails/ViewModel/RestaurantListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "filteredRestaurants"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB47BF10-931F-43C8-BB8D-0943A17E138D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AllTrails/ViewModel/RestaurantListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "filteredRestaurants"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
